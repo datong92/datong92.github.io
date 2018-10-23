@@ -1,0 +1,65 @@
+# jemdoc: menu{MENU}{publications.html}
+# jemdoc: nofooter
+= Publications
+
+== Preprints / Working Papers
+
+- *{{<font color=181A97>Estimating Heterogeneous Treatment Effects in Residential Demand Response</font>}}* \n
+*D.P. Zhou*, M. Balandat, and C.J. Tomlin \n
+/In preparation/
+
+- *{{<font color=181A97>Experimental Demonstration of Frequency Regulation from HVAC Systems of Commercial Buildings</font>}}* \n
+Q. Hu, M. Balandat, E. Vrettos, *D.P. Zhou*, S. Bhattacharya, and C.J. Tomlin \n
+/In preparation/
+
+== Peer-Reviewed / Refereed Articles
+
+- *{{<font color=181A97>Budget-Constrained Multi-Armed Bandits with Multiple Plays</font>}}* \n
+*D.P. Zhou* and C.J. Tomlin \n
+/32nd AAAI Conference on Artificial Intelligence (AAAI), 2018/ \n
+\[[https://arxiv.org/pdf/1711.05928.pdf arXiv:1711.05928]\] \[[Talks/2018_AAAI_Bandits_Talk.pdf Talk Slides]\]
+
+- *{{<font color=181A97>Eliciting Private User Information for Demand Response</font>}}* \n
+*D.P. Zhou*, M. Balandat, M.A. Dahleh, and C.J. Tomlin \n
+/56th IEEE Conference on Decision and Control (CDC), 2017/ \n
+\[[https://arxiv.org/pdf/1703.00972.pdf arXiv:1703.00972]\] \[[Talks/2017_CDC_Mechanism_Talk.pdf Talk Slides]\] \[[http://ieeexplore.ieee.org/document/8263664/ DOI]\]
+
+- *{{<font color=181A97>How Peer Effects Influence Energy Consumption</font>}}* \n
+*D.P. Zhou*, M. Roozbehani, M.A. Dahleh, and C.J. Tomlin \n
+/56th IEEE Conference on Decision and Control (CDC), 2017/ \n
+\[[https://arxiv.org/pdf/1703.00980.pdf arXiv:1703.00980]\] \[[Talks/2017_CDC_PeerEffects_Talk.pdf Talk Slides]\] \[[http://ieeexplore.ieee.org/document/8264229/ DOI]\]
+
+- *{{<font color=181A97>Hedging Strategies in Wholesale Electricity Markets</font>}}* \n
+*D.P. Zhou*, M.A. Dahleh, and C.J. Tomlin \n
+/56th IEEE Conference on Decision and Control (CDC), 2017/ \n
+\[[https://arxiv.org/pdf/1703.00976.pdf arXiv:1703.00976]\] \[[Talks/2017_CDC_Hedging_Talk.pdf Talk Slides]\] \[[http://ieeexplore.ieee.org/document/8263665/ DOI]\]
+
+- *{{<font color=181A97>Estimating Treatment Effects of a Residential Demand Response Program Using Non-Experimental Data</font>}}* \n
+*D.P. Zhou*, M. Balandat, and C.J. Tomlin \n
+/2017 International Conference on Data Mining Workshops (ICDM)/ \n
+\[[Papers/2017_IDCMW.pdf PDF]\] \[[http://ieeexplore.ieee.org/abstract/document/8215649/ DOI]\]
+
+- *{{<font color=181A97>Stability Analysis of Wholesale Electricity Markets under Dynamic Consumption Models and Real-Time Pricing</font>}}* \n
+*D.P. Zhou*, M. Roozbehani, M.A. Dahleh, and C.J. Tomlin \n
+/2017 American Control Conference (ACC)/ \n
+\[[https://arxiv.org/pdf/1609.06193.pdf arxiv:1609.06193]\] \[[Papers/2017_ACC_Market_Stability.pdf PDF]\] \[[Talks/2017_ACC_Stability_Analysis_Talk.pdf Talk Slides]\] \[[http://ieeexplore.ieee.org/document/7963254/ DOI]\]
+
+- *{{<font color=181A97>Quantitative Comparison of Data-Driven and Physics-Based Models for Commercial Building HVAC Systems</font>}}* \n
+*D.P. Zhou*, Q. Hu, and C.J. Tomlin \n
+/2017 American Control Conference (ACC)/ \n
+\[[Papers/2017_ACC_Model_Comparison.pdf PDF]\] \[[Talks/2017_ACC_Model_Comparison_Talk.pdf Talk Slides]\] \[[http://ieeexplore.ieee.org/document/7963391/ DOI]\]
+
+- *{{<font color=181A97>Residential Demand Response Targeting Using Observational Data</font>}}* \n
+*D.P. Zhou*, M. Balandat, and C.J. Tomlin \n
+/55th IEEE Conference on Decision and Control (CDC), 2016/ \n
+\[[https://arxiv.org/pdf/1607.00595.pdf arXiv:1607.00595]\] \[[Papers/2016_CDC_Residential_DR.pdf PDF]\] \[[http://ieeexplore.ieee.org/document/7799295/ DOI]\] \[[Talks/2016_CDC_Targeting_Talk.pdf Talk Slides]\] 
+
+- *{{<font color=181A97>A Bayesian Perspective on Residential Demand Response Using Smart Meter Data</font>}}* \n
+*D.P. Zhou*, M. Balandat, and C.J. Tomlin \n
+/54th Annual Allerton Conference on Communication, Control, and Computing, 2016/ \n
+\[[https://arxiv.org/pdf/1608.03862.pdf arXiv:1608.03862]\] \[[Papers/2016_Allerton_DR_Bayesian.pdf PDF]\] \[[http://ieeexplore.ieee.org/document/7852373/ DOI]\] \[[Talks/2016_Allerton_DR_Bayesian_Talk.pdf Talk Slides]\] 
+
+- *{{<font color=181A97>Building Model Identification during Regular Operation - Empirical Results and Challenges</font>}}* \n
+Q. Hu, F. Oldewurtel, M. Balandat, E. Vrettos, *D.P. Zhou*, and C.J. Tomlin. \n
+/2016 American Control Conference (ACC)/ \n
+\[[https://arxiv.org/pdf/1603.06872.pdf arXiv:1603.06872]\] \[[Papers/2016_ACC_Building_Model_Identification.pdf PDF]\] \[[http://ieeexplore.ieee.org/document/7524980/ DOI]\]

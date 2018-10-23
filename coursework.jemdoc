@@ -1,0 +1,25 @@
+# jemdoc: menu{MENU}{coursework.html}
+# jemdoc: nofooter
+= Coursework
+
+== Engineering and Computer Science
+- EE C220B: Experiential Advanced Control Design
+- EE 221a: Linear System Theory
+- EE 222: Nonlinear Systems: Analysis, Stability, and Control
+- ENG 231: Mathematical Methods in Engineering
+- ME 232: Advanced Control Systems I
+- ME 233: Advanced Control Systems II
+- CS C281A: Statistical Learning Theory
+- CS 289A: Introduction to Machine Learning
+
+== Mathematics and Statistics
+- MATH 170: Mathematical Methods for Optimization
+- MATH 204: Ordinary Differential Equations and Dynamical Systems
+- MATH 221: Advanced Matrix Computations (Numerical Linear Algebra)
+- MATH 228A: Numerical Solutions of Differential Equations
+- STAT 248: Analysis of Time Series (Audit)
+- STAT 260: Observational Study Design and Causal Inference (Audit)
+
+== Industrial Engineering and Operations Research
+- IEOR 165: Engineering Statistics, Quality Control, and Forecasting
+- IEOR 263A: Applied Stochastic Processes

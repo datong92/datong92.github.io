@@ -1,0 +1,28 @@
+# jemdoc: menu{MENU}{index.html}
+# jemdoc: nofooter
+= Welcome to my homepage!
+
+~~~
+{}{img_left}{Figures/Picture_Me-min.png}{DatongPicture}{}{230px}{}
+=== Datong Paul Zhou \n
+PhD Candidate \n
+[http://hybrid.eecs.berkeley.edu/ Hybrid Systems Laboratory] \n
+[http://bair.berkeley.edu/ Berkeley Artificial Intelligence Research Lab (BAIR)] \n
+Department of Mechanical Engineering \n
+University of California, Berkeley
+
+=== Contact
+337 Cory Hall (TRUST), Desk 15 \n
+Berkeley, CA 94720-1770 \n
+datong \[dot\] zhou \[at\] berkeley \[dot\] edu
+~~~\n
+
+=== Links
+\[[https://scholar.google.com/citations?hl=en&user=ssMEfDAAAAAJ Google Scholar]\] \[[https://www.researchgate.net/profile/Datong_Zhou ResearchGate]\] \[[https://www.linkedin.com/in/datong-paul-zhou-3a353498 LinkedIn]\] \[[https://github.com/datong92 GitHub]\] \n
+
+~~~
+{}{raw}
+<a href="https://www.berkeley.edu/"><img width="150" hspace="20" src=Figures/UCBLogo.png /></a>
+
+<a href="https://bair.berkeley.edu/"><img width="250" hspace="20" src=Figures/bair.png /></a>
+~~~\n
