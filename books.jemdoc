@@ -139,12 +139,49 @@ Disclaimer: None of the following books are indicative of my political persuasio
 <br><br>
 ~~~
 
-#=== Open: Andre Agassi
+=== Andre Agassi: Open
+~~~
+{}{raw}
+<img src="Figures/Covers/Open.jpg" height="150px" hspace="10" padding-right:"20" align="left">
+<p>Andre Agassi, 8-time grand slam winner and widely considered one of the greatest tennis players ever, details his struggles and anxieties throughout his professional tennis career. To the layman it appears that life as a successful professional athlete is tantamount to fame, fortune, and constant happiness. Andre, however, takes the reader behind the scenes and describes how his brutal training regimen, loneliness, and abundant travel routine take a toll on his mental and physical health. In this autobiography, Andre describes how he was able to channel his rebellious nature as a kid into hard and consistent work, not minding picking occasional fights with his fellow tennis players. This is a great reflection on the career of a successful tennis player who gives us an honest glimpse into his emotional life.</p>
+<ul>
+	<li><p><i>"Life will throw everything but the kitchen sink in your path, and then it will throw the kitchen sink. It's your job to avoid the obstacles. If you let them stop you or distract you, you're not doing your job, and failing to do your job will cause regrets that paralyze you more than a bad back."
+	</p></i></li>
+	<li><p><i>"What you feel doesn’t matter in the end; it's what you do that makes you brave."</p></i></li>
+	<li><p><i>"What makes something special is not just what you have to gain, but what you feel there is to lose."</p></i></li>
+	<li><p><i>"Even if it's not your ideal life, you can always choose it. No matter what your life is, choosing it changes everything."</p></i></li>
+</ul>
+<br><br>
+~~~
 
-#== Other Non-Fiction
-#=== Flash Boys
+== Other Non-Fiction
+=== Michael Lewis: Flash Boys
+~~~
+{}{raw}
+<img src="Figures/Covers/Flash_Boys.jpg" height="150px" hspace="10" padding-right:"20" align="left">
+<p>A nice, educating read about the market effects of high-frequency trading (HFT) that reads like a detective or adventure story. We are introduced to Brad Katsuyama, a former banker at Royal Bank of Canada, and his "detective" team who observed that the ask price for stocks seemed to jump right after executing orders. This strange phenomenon lead him to discover that high-frequency traders frequently "front-run" the market with the benefit of fast connections, i.e. observe large buy and sell orders microseconds or even nanoseconds before other institutional traders do so, thereby acquiring stocks at a lower price and reselling them at a higher one, pocketing the difference through arbitrage. With the help of dark pools, proprietary trading platforms shielded from public exchanges, these opportunities for arbitrage became even more pronounced. Finally, we learn how Brad and his colleagues invent their own transparent exchange, IEX, that uses a program called Thor to guarantee all orders to arrive at stock exchanges at exactly the same time, eliminating opportunities for arbitrage.</p>
+<ul>
+	<li><p><i>"Dark pools were another rogue spawn of the new financial marketplace. Private stock exchanges, run by the big brokers, they were not required to reveal to the public what happened inside them. They reported any trade they executed, but they did so with sufficient delay that it was impossible to know exactly what was happening in the broader market at the moment the trade occurred."</p></i></li>
+	<li><p><i>"It was like a broken slot machine in the casino that pays off every time. It would keep paying off until someone said something about it; but no one who played the slot machine had any interest in pointing out that it was broken."</p></i></li>
+	<li><p><i>"People no longer are responsible for what happens in the market, because computers make all the decisions."</p></i></li>
+	<li><p><i>"The U.S. stock market was now a class system, rooted in speed, of haves and have-nots. The haves paid for nanoseconds; the have-nots had no idea that a nanosecond had value."</p></i></li>
+</ul>
+<br><br>
+~~~
 
-#=== The Big Short
+=== Michael Lewis: The Big Short - Inside the Doomsday Machine
+~~~
+{}{raw}
+<img src="Figures/Covers/Big_Short.jpg" height="150px" hspace="10" padding-right:"20" align="left">
+<p>This highly illuminating and entertaining books sheds light on the causes of the 2008 financial crisis. Similar to "Flash Boys", this is also a story centered around its heroic characters, each of which independently predicted the collapse of the housing bubble, which itself had been inflated by floating interest rates on subprime mortgages. Aided by negligent behavior of the big three credit rating agencies, which inexplicably rated the credit scores of low-income borrowers as too high, subprime mortgage loans were then repackaged into "collaterized debt obligations" and exchanged between the largest investment banks. The story which reads like a thriller, explains how four individual parties, independent from each other, bet against the housing market with "credit default swaps", insurance policies which would pay off as the housing market became illiquid. </p>
+<ul>
+	<li><p><i>"Thus a Jamaican baby nurse or Mexican strawberry picker with an income of $14,000 looking to borrow three-quarters of a million dollars, when filtered through the models at Moody’s and S&P, became suddenly more useful, from a credit-rigging point of view. They might actually improve the perceived quality of the pool of loans and increase the percentage that could be declared triple-A. The Mexican harvested strawberries; Wall Street harvested his FICO score. The models used by the rating agencies were riddled."</p></i></li>
+	<li><p><i>"The creation of the mortgage bond market, a decade earlier, had extended Wall Street into a place it had never before been: the debts of ordinary Americans."</p></i></li>
+	<li><p><i>"That was the problem with money: What people did with it had consequences, but they were so remote from the original action that the mind never connected the one with the other."</p></i></li>
+	<li><p><i>"With stagnant wages and booming consumption, the cash-strapped American masses had a virtually unlimited demand for loans but an uncertain ability to repay them."</p></i></li>
+</ul>
+<br><br>
+~~~
 
 ~~~
 {}{raw}
