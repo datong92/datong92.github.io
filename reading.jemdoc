@@ -1,0 +1,39 @@
+# jemdoc: menu{MENU}{reading.html}
+# jemdoc: nofooter
+= Reading
+
+Sharing a few resources that have helped me learn and grow over the last few years -- perhaps you find this list useful.
+
+== Machine Learning / Software Engineering
+- Design Patterns: Elements of Reusable Object-Oriented Software: Gamma, Helm, Johnson, Vlissides
+- [https://blog.ml.cmu.edu/ CMU ML Blog] 
+- [https://www.amazon.science/ Amazon Science Blog]
+- [https://distill.pub/ Distill]
+- [https://ai.googleblog.com/ Google AI Blog]
+- [https://bair.berkeley.edu/blog/?refresh=1 Berkeley Artificial Intelligence Research]
+- [https://openai.com/blog/ Open AI]
+- [https://deepmind.com/blog DeepMind]
+- [https://news.mit.edu/topic/machine-learning MIT ML Blog]
+- [https://ai.facebook.com/blog Meta AI]
+- [https://aws.amazon.com/blogs/machine-learning/ AWS ML Blog]
+
+== Management / Leadership
+- Give and Take: Adam Grant
+- How to Win Friends and Influence People: Dale Carnegie
+- High Output Management: Andrew S. Grove
+- Good Strategy - Bad Strategy: Richard Rumelt
+- Strengths Finder: Gallup
+
+== Finance
+- The Intelligent Investor: Benjamin Graham
+- A Random Walk Down Walk Street: Burton G. Malkiel
+- One Up on Wall Street: Peter Lynch
+
+== Misc (Just for Fun)
+- Principles: Ray Dalio
+- Never Split the Difference: Chris Voss
+- Meditations: Marcus Aurelius
+- The Obstacle is the Way: Ryan Holiday
+- The Mindfulness Solution: Ronald D. Siegel
+- Think Again: Adam Grant
+- The 48 Laws of Power: Robert Greene
