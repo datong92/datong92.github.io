@@ -3,7 +3,24 @@
 = Biography
 
 == About Myself
-I am a Research Scientist at Meta (formerly Facebook). Previously, I was a PhD Candidate in Mechanical Engineering at UC Berkeley, working with [https://people.eecs.berkeley.edu/~tomlin/ Professor Claire J. Tomlin] in the [http://hybrid.eecs.berkeley.edu/ Hybrid Systems Laboratory]. Also, I was affiliated with the [http://bair.berkeley.edu/ Berkeley Artificial Intelligence Research Lab (BAIR)]. I am interested in modeling and control of Cyber-Physical Systems using Applied Machine Learning and Statistical Learning. Please take a look at my [projects.html projects] and [publications.html publications] that are at the intersection of control theory, computer science, and economics, with applications to electricity markets.
+I am currently an Applied Scientist Manager and Tech Lead at Amazon Advertising, having previously worked at Uber and Meta in roles focused on Applied Science ad ML Engineering. Before that, I completed by PhD at UC Berkeley, working with [https://people.eecs.berkeley.edu/~tomlin/ Professor Claire J. Tomlin] in the [http://hybrid.eecs.berkeley.edu/ Hybrid Systems Laboratory] and being part of the [http://bair.berkeley.edu/ Berkeley Artificial Intelligence Research Lab (BAIR)].
+
+My work in industry broadly revolves around the application of Machine Learning, statistical methods, and economics in large-scale settings across diverse sectors such as search and recommendation systems, advertising, e-commerce, and transportation. My contributions have resulted in $XXX million yearly incremental revenue and XX million daily active users across various applications.
+
+During my PhD research, I was intersted in modeling and control of Cyber-Physical Systems using Applied Machine Learning and Statistical Learning. Please take a look at my [projects.html projects] and [publications.html publications] that are at the intersection of control theory, computer science, and economics, with applications to electricity markets.
+
+Lastly, I have a passion for fostering professional development, demonstrated through my role as a guest lecturer (adjunct professor) at the University of Washington, teaching STAT/CSE 416 - Introduction to Machine Learning. I have directly contributed to XX indivduals securing jobs in large tech companies and advancing their careers through my guidance. Additionally, I have supported another XX students in securing positions in competitive Master's and PhD programs in quantitative disciplines.
+
+
+== Research & Work Experience
+- 2023-current: Guest lecturer (Adjunct Professor), University of Washington
+- 2022-current: Applied Scientist Manager & Tech Lead, Amazon Ads
+- 2022: Applied Scientist at Uber, Surge Pricing
+- 2019-22: Research Scientist (ML Engineer) at Meta
+- 2014-18: Graduate Research Assistant, UC Berkeley
+- 2018: Software Engineer Intern (Machine Learning) at [https://www.facebook.com/ Facebook]'s [https://newsroom.fb.com/news/category/inside-feed/?url=https://newsroom.fb.com/news/category/inside-feed&utm_source=gg&utm_medium=ps&utm_campaign=1509756860&utm_content=288267889328&utm_term=facebook%20news%20feed News Feed] Discovery Team
+- 2016: Visiting Scholar, MIT
+- 2015: Consulting Intern at [https://www.smc.siemens.de/en/ Siemens AG] in Munich, Germany.
 
 == Education
 I have obtained the following academic degrees:
@@ -15,22 +32,18 @@ I have obtained the following academic degrees:
 
 During the Fall 2016 semester I was a visiting student in the [https://lids.mit.edu/ Laboratory for Information and Decision Systems] (LIDS) at MIT, supervised by [https://dahleh.lids.mit.edu/ Prof. Munther A. Dahleh] and [https://mardavij.lids.mit.edu/ Dr. Mardavij Roozbehani].
 
-== Work Experience
-- In the summer of 2018, I worked at [https://www.facebook.com/ Facebook]'s [https://newsroom.fb.com/news/category/inside-feed/?url=https://newsroom.fb.com/news/category/inside-feed&utm_source=gg&utm_medium=ps&utm_campaign=1509756860&utm_content=288267889328&utm_term=facebook%20news%20feed News Feed] Discovery Team as a Software Engineer Intern (Machine Learning focus).
-- In the summer of 2015, I worked as a Consulting Intern for [https://www.smc.siemens.de/en/ Siemens AG] in Munich, Germany.
-
 == Resume
 ~~~
-A current copy of my resume is available [Papers/Zhou_Datong_Resume_Feb_2022.pdf here].
+A (slightly out of date) copy of my resume is available [Papers/Zhou_Datong_Resume_Feb_2022.pdf here].
 ~~~
 
-== Links
-~~~
-{}{raw}
-<a href="https://www.berkeley.edu/"><img width="100" hspace="20" src=Figures/UCBLogo.png /></a>
-<a href="https://bair.berkeley.edu/"><img width="130" hspace="20" vspace="15" src=Figures/bair.png /></a>
-<a href="https://www.mit.edu/"><img width="100" hspace="20" vspace="20" src=Figures/mit.png /></a>
-<a href="https://lids.mit.edu//"><img width="100" hspace="20" src=Figures/lids.png /></a>
-<a href="https://research.fb.com/"><img width="100" hspace="20" src=Figures/fb.png /></a>
-<a href="https://www.tum.de/nc/en/homepage/"><img width="100" hspace="20" src=Figures/tum.png /></a>
-~~~\n
+# == Links
+# ~~~
+# {}{raw}
+# <a href="https://www.berkeley.edu/"><img width="100" hspace="20" src=Figures/UCBLogo.png /></a>
+# <a href="https://bair.berkeley.edu/"><img width="130" hspace="20" vspace="15" src=Figures/bair.png /></a>
+# <a href="https://www.mit.edu/"><img width="100" hspace="20" vspace="20" src=Figures/mit.png /></a>
+# <a href="https://lids.mit.edu//"><img width="100" hspace="20" src=Figures/lids.png /></a>
+# <a href="https://research.fb.com/"><img width="100" hspace="20" src=Figures/fb.png /></a>
+# <a href="https://www.tum.de/nc/en/homepage/"><img width="100" hspace="20" src=Figures/tum.png /></a>
+# ~~~
